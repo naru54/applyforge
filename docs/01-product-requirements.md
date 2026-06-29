@@ -2,7 +2,7 @@
 
 ## Project Name
 
-**ApplyForge**
+ApplyForge
 
 ## Problem Statement
 
